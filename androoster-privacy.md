@@ -14,9 +14,9 @@
 
 <p><strong>Information Collection and Use</strong></p>
 <p>For a better experience while using our Service, we may require you to provide us with certain
-    personally identifiable information, including but not limited to crash reports. 
+    personally identifiable information, including but not limited to crash reports and application settings. 
 	The information that we request will be retained by us and used as described in this privacy policy.</p>
-<p>The app does use third party services that may collect information used to identify you..
+<p>The app does use third party services that may collect information used to identify you
 
 <p><strong>Log Data</strong></p>
 <p>We want to inform you that whenever you use our Service, in case of an error in the app we collect
