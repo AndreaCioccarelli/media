@@ -12,6 +12,9 @@
 <p>The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions,
     which is accessible at Androoster, unless otherwise defined in this Privacy Policy.</p>
 
+<p><strong>Androoster installation and usage</strong></p>
+<p>The software is provided AS-IS, and I am not to blame for any kind or form of damage that may happen to your device using this application. I take no responsability under any condition for any kind or form of damage that Androoster may induce into your device / may cause. By using this software, you are implicitly agreeing to this text, and you take full responsability over all and any of your actions and of all and any consequences that your device may encounter.</p>
+
 <p><strong>Information Collection and Use</strong></p>
 <p>For a better experience while using our Service, we may require you to provide us with certain
     personally identifiable information, including but not limited to crash reports and application settings. 
